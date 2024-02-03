@@ -30,7 +30,7 @@ const rosaClaro = {
     pasta: 'imagens-rosa-claro'
 }
 
-const opcoesCores = [verdeCipreste, azulInverno, meiaNoite, estelar, rosaClaro]
+const opcoesCores = [verdeCipreste, azulInverno, meiaNoite, estelar, rosaClaro];
 const opcoesTamanho = ['41 mm', '45 mm'];
 
 let imagemSelecionada = 1;
